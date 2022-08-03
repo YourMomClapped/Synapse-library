@@ -360,7 +360,7 @@ function windows:Create(options)
     Settings_2.BackgroundTransparency = 1.000
     Settings_2.Position = UDim2.new(0.483606517, 0, 0.0178571008, 0)
     Settings_2.Size = UDim2.new(0, 17, 0, 17)
-    Settings_2.Image = "rbxassetid://7072721682"
+    Settings_2.Image = "rbxassetid://9411304331"
     Settings_2.ImageTransparency = 0.630
 
     local Error = Instance.new("TextButton")
