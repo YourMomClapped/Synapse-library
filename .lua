@@ -309,7 +309,7 @@ function windows:Create(options)
     Exit.ImageTransparency = 1
     Exit.Position = UDim2.new(0.952782452, 0, 0.0178571437, 0)
     Exit.Size = UDim2.new(0, 21, 0, 21)
-    Exit.Image = "rbxassetid://7072725342"
+    Exit.Image = "rbxassetid://9411304331"
     
     PageLogo.Name = "PageLogo"
     PageLogo.Parent = Settings
@@ -318,7 +318,7 @@ function windows:Create(options)
     PageLogo.ImageTransparency = 1
     PageLogo.Position = UDim2.new(0.00999999978, 0, 0.0149999997, 0)
     PageLogo.Size = UDim2.new(0, 20, 0, 20)
-    PageLogo.Image = "rbxassetid://7072721682"
+    PageLogo.Image = "rbxassetid://9411304331"
     
     TextLabel.Parent = Settings
     TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
